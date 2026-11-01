@@ -1,2 +1,2 @@
-# 100-days-of-machine-learning by wmd..
+# 100-days-of-machine-learning
 
